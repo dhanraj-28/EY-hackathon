@@ -1,0 +1,20 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environment ---
+venv/
+ENV/
+env/
+loanbot venv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# --- OS/Editor files ---
+*.log
+.vscode/
+.DS_Store
+
+# --- Backup ---
+*.bak
