@@ -1,0 +1,105 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Amit Sharma",
+    "age": 28,
+    "city": "Bangalore",
+    "monthly_salary": 65000,
+    "existing_loan_emi": 8000,
+    "loan_requested": 300000,
+    "tenure_months": 36
+  },
+  {
+    "user_id": "U002",
+    "name": "Priya Verma",
+    "age": 32,
+    "city": "Mumbai",
+    "monthly_salary": 85000,
+    "existing_loan_emi": 15000,
+    "loan_requested": 500000,
+    "tenure_months": 48
+  },
+  {
+    "user_id": "U003",
+    "name": "Rahul Iyer",
+    "age": 35,
+    "city": "Chennai",
+    "monthly_salary": 95000,
+    "existing_loan_emi": 22000,
+    "loan_requested": 700000,
+    "tenure_months": 60
+  },
+  {
+    "user_id": "U004",
+    "name": "Sneha Patel",
+    "age": 26,
+    "city": "Ahmedabad",
+    "monthly_salary": 52000,
+    "existing_loan_emi": 5000,
+    "loan_requested": 250000,
+    "tenure_months": 24
+  },
+  {
+    "user_id": "U005",
+    "name": "Rohit Mehta",
+    "age": 40,
+    "city": "Delhi",
+    "monthly_salary": 120000,
+    "existing_loan_emi": 30000,
+    "loan_requested": 900000,
+    "tenure_months": 60
+  },
+
+  {
+    "user_id": "U006",
+    "name": "Kiran Rao",
+    "age": 29,
+    "city": "Hyderabad",
+    "monthly_salary": 70000,
+    "existing_loan_emi": 10000,
+    "loan_requested": 400000,
+    "tenure_months": 36
+  },
+  {
+    "user_id": "U007",
+    "name": "Anjali Singh",
+    "age": 34,
+    "city": "Pune",
+    "monthly_salary": 88000,
+    "existing_loan_emi": 12000,
+    "loan_requested": 450000,
+    "tenure_months": 48
+  },
+  {
+    "user_id": "U008",
+    "name": "Suresh Kumar",
+    "age": 45,
+    "city": "Coimbatore",
+    "monthly_salary": 60000,
+    "existing_loan_emi": 18000,
+    "loan_requested": 350000,
+    "tenure_months": 36
+  },
+  {
+    "user_id": "U009",
+    "name": "Neha Malhotra",
+    "age": 31,
+    "city": "Gurgaon",
+    "monthly_salary": 92000,
+    "existing_loan_emi": 14000,
+    "loan_requested": 550000,
+    "tenure_months": 48
+  },
+  {
+    "user_id": "U010",
+    "name": "Vikas Jain",
+    "age": 38,
+    "city": "Jaipur",
+    "monthly_salary": 75000,
+    "existing_loan_emi": 16000,
+    "loan_requested": 600000,
+    "tenure_months": 60
+  }
+
+
+]

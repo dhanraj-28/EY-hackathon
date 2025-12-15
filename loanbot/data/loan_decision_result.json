@@ -1,0 +1,15 @@
+{
+    "credit_analysis": {
+        "credit_score": 720,
+        "probability_of_default": 0.254,
+        "risk_level": "medium"
+    },
+    "underwriting": {
+        "decision": "approve",
+        "emi_ratio": 0.16
+    },
+    "sanction": {
+        "sanctioned_amount": 360000.0,
+        "tenure_months": 36
+    }
+}

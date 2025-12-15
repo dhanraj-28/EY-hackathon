@@ -1,0 +1,42 @@
+{
+  "U001": {
+    "phone_verified": true,
+    "address_verified": true
+  },
+  "U002": {
+    "phone_verified": true,
+    "address_verified": true
+  },
+  "U003": {
+    "phone_verified": true,
+    "address_verified": false
+  },
+  "U004": {
+    "phone_verified": true,
+    "address_verified": true
+  },
+  "U005": {
+    "phone_verified": false,
+    "address_verified": true
+  },
+  "U006": {
+    "phone_verified": true,
+    "address_verified": true
+  },
+  "U007": {
+    "phone_verified": true,
+    "address_verified": false
+  },
+  "U008": {
+    "phone_verified": true,
+    "address_verified": true
+  },
+  "U009": {
+    "phone_verified": false,
+    "address_verified": true
+  },
+  "U010": {
+    "phone_verified": true,
+    "address_verified": true
+  }
+}

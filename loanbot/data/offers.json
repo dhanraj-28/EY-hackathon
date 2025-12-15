@@ -1,0 +1,42 @@
+{
+  "U001": {
+    "pre_approved_limit": 400000,
+    "interest_rate": 11.5
+  },
+  "U002": {
+    "pre_approved_limit": 600000,
+    "interest_rate": 11.2
+  },
+  "U003": {
+    "pre_approved_limit": 500000,
+    "interest_rate": 12.0
+  },
+  "U004": {
+    "pre_approved_limit": 300000,
+    "interest_rate": 12.8
+  },
+  "U005": {
+    "pre_approved_limit": 700000,
+    "interest_rate": 10.9
+  },
+  "U006": {
+    "pre_approved_limit": 350000,
+    "interest_rate": 12.4
+  },
+  "U007": {
+    "pre_approved_limit": 450000,
+    "interest_rate": 11.9
+  },
+  "U008": {
+    "pre_approved_limit": 300000,
+    "interest_rate": 13.1
+  },
+  "U009": {
+    "pre_approved_limit": 500000,
+    "interest_rate": 11.3
+  },
+  "U010": {
+    "pre_approved_limit": 400000,
+    "interest_rate": 12.2
+  }
+}
